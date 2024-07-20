@@ -167,7 +167,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/DevClube/product-management.git
+   git clone https://github.com/Houssam2001/product-management
    ```
 2. Install NPM packages:
    ```bash
